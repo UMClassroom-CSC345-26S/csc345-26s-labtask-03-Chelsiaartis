@@ -1,6 +1,6 @@
 # Find the Car Style
 
-This labtask has two parts. Both parts use the cleaned and normalized data from Labtask #1.
+This labtask has two parts. Both parts use the cleaned and normalized data from Labtask #2.
 - Can a K-Means analysis discover the styles of cars from their interior volume and number of doors?
   Write Python code called `KMeansClassifier.ipynb`/`KMeansClassifier.py` (depending how you 
   implement it) that uses K-Means to cluster all the cars into 5 clusters based on their
